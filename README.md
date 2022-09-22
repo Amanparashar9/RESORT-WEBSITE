@@ -1,9 +1,9 @@
 # RESORT-WEBSITE based on HTML , CSS AND BOOTSTRAP
 
 # This website contains 3 pages
-1- index.html
-2- style.css
-3- assets folder for images
+1) - index.html
+2) - style.css
+3) - assets folder for images
 
 # Project Tour!
 
